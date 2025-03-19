@@ -88,9 +88,9 @@ function setupGeminiAPIKey(apiKey) {
   return true;
 }
 
-// Helper function to set up Gemini API with the provided key
+// Helper function to set up Gemini API with the provided key fake api key inputted
 function setupGeminiAPI() {
-  return setupGeminiAPIKey('AIzaSyDE9FwV8JNRb7dfRZJi71-7LKTtB57iQyE');
+  return setupGeminiAPIKey('AIuhuhububinjbbjbbjbjbjbjbj'); 
 }
 
 // Create time-based trigger
